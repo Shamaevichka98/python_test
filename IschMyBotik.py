@@ -1,4 +1,4 @@
-
+# название бота - IschMyBot
 import telebot
 from utils import keys, TOKEN
 from extensions import ConversionExeption, APIException
